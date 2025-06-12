@@ -1,0 +1,18 @@
+Commercial name: Products by Attributes
+Proprietary-license whose copyright belongs to the Licensor PRESTA MODULE, a company registered under French law under
+the number 528 531 767, located 90 rue Stanislas Torrents 13006 Marseille
+support@presta-module.com https://www.presta-module.com
+
+This module's source codes are protected and Licensees are not allowed to create any Derivated Work.
+Distribution or resale is strictly forbidden.
+
+This module shall be used for Licensees’ own use, which allows Customization.
+
+Licensees shall not distribute nor resale publicly any Customization. However, Licensees are allowed to sale a
+customization as part of a service provided to a designated customer.
+
+Limitation of Liability: Under no circumstances and under no legal theory, whether in tort (including negligence),
+contract, or otherwise, shall the Licensor be liable to anyone for any indirect, special, incidental, or
+consequential damages of any character arising as a result of this License including, without limitation, damages
+for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages
+or losses. This limitation of liability shall not apply to the extent applicable law prohibits such limitation.

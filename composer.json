@@ -1,0 +1,13 @@
+{
+    "name": "prestamodule/pm_productsbyattributes",
+    "description": "Show as many products you have attributes into your category pages",
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "config": {
+        "platform-check": false,
+        "preferred-install": "dist",
+        "prepend-autoloader": false
+    },
+    "type": "prestashop-module"
+}

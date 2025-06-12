@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>pm_productsbyattributes</name>
+    <displayName><![CDATA[Show Products by Attributes]]></displayName>
+    <version><![CDATA[2.3.0]]></version>
+    <description><![CDATA[Pokaż tyle produkt&oacute;w, ile masz atrybut&oacute;w na swoich stronach kategorii]]></description>
+    <author><![CDATA[Presta-Module]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+</module>

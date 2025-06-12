@@ -1,0 +1,14 @@
+{
+    "dependencies": [
+        {
+            "name": "ps_mbo",
+            "displayName": "PrestaShop Marketplace",
+            "description": "mboDesc"
+        },
+        {
+            "name": "ps_accounts",
+            "displayName": "PrestaShop Accounts",
+            "description": "accountsDesc"
+        }
+    ]
+}
